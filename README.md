@@ -1,2 +1,3 @@
 # Basic-3D
-Basic 3D computer graphics
+This repository is basics of 3D computer graphics. Done as self-teaching exercise.
+Feel free to use it for your own self-study.
